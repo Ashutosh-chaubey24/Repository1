@@ -5,5 +5,11 @@ this is git &amp; github account and prectise make.
 ashutosh
 # friends
 shivam gupta
+# users 
+i am user for github 
+# message 
+hello ashutosh;
+
+
 
 
